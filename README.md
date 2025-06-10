@@ -15,10 +15,10 @@ Welcome! I'm Kaike Vieira, a Data Analyst with a background in engineering, data
 
 ## 🛠️ Tools & Skills
 
-- Python (Pandas, NumPy, Scikit-learn, Seaborn, Matplotlib)
+- Python (Pandas, NumPy, Scikit-learn, XGBoost, LightGBM, SciPy stats, Keras, Tensowflow, Seaborn, Matplotlib)
+- Excel
 - SQL & T-SQL
-- Power BI, Excel
-- Tableau
+- Power BI, Tableau
 - GitHub & Jupyter Notebooks
 
 ## 📫 Contact
